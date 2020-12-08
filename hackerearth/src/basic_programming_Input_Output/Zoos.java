@@ -17,8 +17,6 @@ public class Zoos {
 		if(n1==(n2*2))
 			System.out.println("Yes");
 		else System.out.println("No");
-		
-		System.out.println("*****************End Of the Program********************");
 
 	}
 
